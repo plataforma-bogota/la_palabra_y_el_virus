@@ -7,7 +7,7 @@ Descripción ...
 
 * nombres participantes
 
-Proyecto desarrollado en el Club de Electrónica de (http://plataformabogota.org)[Plataforma Bogotá], un proyecto de la Gerencia de Artes Plásticas de la (http://www.fgaa.gov.co/)[Fundación Gilberto Alzate Avendaño]
+Proyecto desarrollado en el Club de Electrónica de [Plataforma Bogotá](http://plataformabogota.org), un proyecto de la Gerencia de Artes Plásticas de la [Fundación Gilberto Alzate Avendaño](http://www.fgaa.gov.co/)
 
 
 # Licencia
